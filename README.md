@@ -147,7 +147,7 @@ The Story guides the client through the following steps:
 
 ---
 
-📊 **Tableau Public** [MarketFlash Database & Performance Story](https://public.tableau.com/shared/RMMSWWZB9?:display_count=n&:origin=viz_share_link)  
+📊 **Tableau Public:** [MarketFlash Database & Performance Story](https://public.tableau.com/shared/RMMSWWZB9?:display_count=n&:origin=viz_share_link)  
 
 ---
 
