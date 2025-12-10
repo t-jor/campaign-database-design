@@ -1,6 +1,7 @@
 # Campaign Database Design & Performance Analysis (MarketFlash Case Study)
 
-A relational database project using SQLite and Tableau to design a scalable campaign data model and visualize performance insights.
+**Designing a scalable relational data model and enabling campaign performance insights for a growing marketing company**  
+*A SQLite-based database architecture combined with Tableau visualizations to model entities, relationships, KPIs, and stakeholder dashboards.*
 
 ## Project Context
 
@@ -146,7 +147,7 @@ The Story guides the client through the following steps:
 
 ---
 
-📊 **Tableau Public Story Link:** [View on Tableau Public](https://public.tableau.com/shared/RMMSWWZB9?:display_count=n&:origin=viz_share_link)  
+📊 **Tableau Public** [MarketFlash Database & Performance Story](https://public.tableau.com/shared/RMMSWWZB9?:display_count=n&:origin=viz_share_link)  
 
 ---
 
