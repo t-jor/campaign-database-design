@@ -1,6 +1,6 @@
-# Marketing Campaign Database Project
+# Campaign Database Design & Performance Analysis (MarketFlash Case Study)
 
-This project was developed as part of a Data Analytics exercise. It covers the design and implementation of a relational database for marketing campaigns. The process started with a Crow’s Foot ERD, which was refined into a **Functional Diagram** that served as the foundation for database creation and relationships. The project also includes SQL scripts, test data, and a final dashboard design.
+A relational database project using SQLite and Tableau to design a scalable campaign data model and visualize performance insights.
 
 ## Project Context
 
@@ -147,5 +147,10 @@ The Story guides the client through the following steps:
 ---
 
 📊 **Tableau Public Story Link:** [View on Tableau Public](https://public.tableau.com/shared/RMMSWWZB9?:display_count=n&:origin=viz_share_link)  
-✍️ **Author:** Thomas Jortzig  
-📅 **Date:** July 2025
+
+---
+
+## 👨‍💻 Author
+
+**Thomas Jortzig**  
+Campaign Database Design & Performance Analysis – MarketFlash Case Study (07/2025)
